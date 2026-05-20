@@ -1,10 +1,26 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,40:0d2137,100:0a3d62&height=200&section=header&text=Wahiba%20Atif&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Backend%20%7C%20AI%20%7C%20DevOps&descAlignY=58&descSize=18&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,40:0d2137,100:0a3d62&height=280&section=header&text=Wahiba%20Atif&fontSize=64&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=FULL-STACK%20ENGINEER%20%C2%A0%C2%B7%C2%A0%20BACKEND%20%C2%A0%C2%B7%C2%A0%20AI%20%C2%A0%C2%B7%C2%A0%20DEVOPS&descAlignY=58&descSize=14&descColor=38BDF8&animation=fadeIn"/>
 
 </div>
 
 <div align="center">
+
+![Open to PFE](https://img.shields.io/badge/💼%20Open%20to%20PFE%20%2F%20Opportunities-1a3a2a?style=for-the-badge&labelColor=1a3a2a&color=1a3a2a&logoColor=white)
+&nbsp;
+![Location](https://img.shields.io/badge/📍%20Casablanca%2C%20Morocco-0d2137?style=for-the-badge&labelColor=0d2137&color=0d2137)
+&nbsp;
+![School](https://img.shields.io/badge/🎓%20EMSI%20Al%20Bakri%20—%20IIR-2a1f0a?style=for-the-badge&labelColor=2a1f0a&color=2a1f0a)
+
+<br/><br/>
+
+[![GitHub](https://img.shields.io/badge/⌥%20atifHiba-1a1f2e?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1f2e)](https://github.com/atifHiba)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/in%20LinkedIn-1a1f2e?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1f2e)](https://linkedin.com/in/wahiba-atif)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/✉%20atifwahiba1%40gmail.com-1a1f2e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1f2e)](mailto:atifwahiba1@gmail.com)
+
+<br/><br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=750&lines=Spring+Boot+%7C+Django+%7C+Laravel+%7C+React+%7C+Flutter;Machine+Learning+%7C+TFLite+%7C+Deep+Learning;Docker+%7C+Kubernetes+%7C+CI%2FCD+%7C+Jenkins+%7C+GitLab;MySQL+%7C+PostgreSQL+%7C+MongoDB+%7C+Oracle;Casablanca%2C+Morocco+%E2%80%94+Building+Global+Solutions)](https://git.io/typing-svg)
 
@@ -13,8 +29,6 @@
 ![Followers](https://img.shields.io/github/followers/atifHiba?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=0369a1&labelColor=0c1a2e)
 &nbsp;
 ![Views](https://komarev.com/ghpvc/?username=atifHiba&style=for-the-badge&color=0369a1&labelColor=0c1a2e&label=PROFILE+VIEWS)
-&nbsp;
-![Status](https://img.shields.io/badge/OPEN%20TO%20PFE%20%2F%20OPPORTUNITIES-✔-16a34a?style=for-the-badge&labelColor=052e16)
 
 </div>
 
