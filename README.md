@@ -1,7 +1,3 @@
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--          WAHIBA ATIF — GITHUB PROFILE README                 -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,40:0d2137,100:0a3d62&height=200&section=header&text=Wahiba%20Atif&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Backend%20%7C%20AI%20%7C%20DevOps&descAlignY=58&descSize=18&animation=fadeIn"/>
@@ -10,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=750&lines=🚀+Spring+Boot+%7C+Django+%7C+Laravel+%7C+React+%7C+Flutter;🧠+Machine+Learning+%7C+TFLite+%7C+Deep+Learning;⚙️+Docker+%7C+Kubernetes+%7C+CI/CD+%7C+Jenkins+%7C+GitLab;🗄️+MySQL+%7C+PostgreSQL+%7C+MongoDB+%7C+Oracle;🌍+Casablanca%2C+Morocco+—+Building+Global+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=750&lines=Spring+Boot+%7C+Django+%7C+Laravel+%7C+React+%7C+Flutter;Machine+Learning+%7C+TFLite+%7C+Deep+Learning;Docker+%7C+Kubernetes+%7C+CI%2FCD+%7C+Jenkins+%7C+GitLab;MySQL+%7C+PostgreSQL+%7C+MongoDB+%7C+Oracle;Casablanca%2C+Morocco+%E2%80%94+Building+Global+Solutions)](https://git.io/typing-svg)
 
 <br/>
 
@@ -18,7 +14,7 @@
 &nbsp;
 ![Views](https://komarev.com/ghpvc/?username=atifHiba&style=for-the-badge&color=0369a1&labelColor=0c1a2e&label=PROFILE+VIEWS)
 &nbsp;
-![Status](https://img.shields.io/badge/OPEN%20TO%20OPPORTUNITIES-✔-16a34a?style=for-the-badge&labelColor=052e16)
+![Status](https://img.shields.io/badge/OPEN%20TO%20PFE%20%2F%20OPPORTUNITIES-✔-16a34a?style=for-the-badge&labelColor=052e16)
 
 </div>
 
@@ -31,39 +27,18 @@ package ma.casablanca.wahiba;
 
 public class WahibaAtif extends FullStackEngineer {
 
-    private final String name       = "Wahiba Atif";
-    private final String handle     = "@atifHiba";
-    private final String degree     = "Ingénierie Informatique et Réseaux — EMSI Al Bakri";
-    private final String location   = "Casablanca, Morocco 🇲🇦";
-    private final boolean openToWork = true; // looking for PFE & opportunities!
+    private final String  name        = "Wahiba Atif";
+    private final String  handle      = "@atifHiba";
+    private final String  degree      = "Ingénierie Informatique et Réseaux — EMSI Al Bakri";
+    private final String  location    = "Casablanca, Morocco 🇲🇦";
+    private final boolean openToWork  = true; // actively looking for PFE & opportunities!
 
-    private final String[] backendStack = {
-        "Spring Boot", "Django", "Laravel", "Flask", "Node.js",
-        "REST APIs", "Microservices", "Kafka", "FastAPI"
-    };
-
-    private final String[] frontendStack = {
-        "React", "Flutter", "HTML5", "CSS3", "JavaScript",
-        "Bootstrap", "Tailwind CSS", "TailwindCSS"
-    };
-
-    private final String[] databases = {
-        "MySQL", "PostgreSQL", "MongoDB", "Oracle", "SQL Server", "Firebase"
-    };
-
-    private final String[] devopsTools = {
-        "Docker", "Kubernetes", "Jenkins", "GitLab CI/CD",
-        "Grafana", "Kibana", "SonarQube", "Microsoft Azure"
-    };
-
-    private final String[] aiMl = {
-        "TFLite (CNN)", "Machine Learning", "Deep Learning",
-        "Jupyter Notebook", "Pandas", "NumPy", "Matplotlib", "Anaconda"
-    };
-
-    private final String[] languages = {
-        "Arabic (Native)", "French (B2)", "English (B2)"
-    };
+    private final String[] backendStack  = { "Spring Boot", "Django", "Laravel", "Flask", "Node.js", "FastAPI" };
+    private final String[] frontendStack = { "React.js", "Flutter", "HTML5", "CSS3", "TailwindCSS", "Bootstrap" };
+    private final String[] databases     = { "MySQL", "PostgreSQL", "MongoDB", "Oracle", "SQL Server", "Firebase" };
+    private final String[] devopsTools   = { "Docker", "Kubernetes", "Jenkins", "GitLab CI/CD", "Azure", "Grafana", "Kibana", "SonarQube" };
+    private final String[] aiMl          = { "TFLite (CNN)", "TensorFlow", "Scikit-learn", "Pandas", "NumPy", "Matplotlib" };
+    private final String[] languages     = { "Arabic (Native)", "French (B2)", "English (B2)" };
 
     public String motto() {
         return "Build it. Ship it. Improve it. ♻";
@@ -78,25 +53,57 @@ public class WahibaAtif extends FullStackEngineer {
 <div align="center">
 
 ### ☕ Languages
-
-[![Languages](https://skillicons.dev/icons?i=java,python,php,js,ts,dart,cs,html,css&theme=dark&perline=9)](https://skillicons.dev)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 ### ⚙️ Frameworks & Libraries
-
-[![Frameworks](https://skillicons.dev/icons?i=spring,django,laravel,flask,react,flutter,nodejs,bootstrap,tailwind&theme=dark&perline=9)](https://skillicons.dev)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 ### 🗄️ Databases
-
-[![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb,oracle,firebase,redis&theme=dark&perline=6)](https://skillicons.dev)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 ### 🧰 DevOps & Tools
-
-[![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,jenkins,gitlab,github,git,azure,grafana,postman,figma,vscode,linux&theme=dark&perline=12)](https://skillicons.dev)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ### 🤖 AI / ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-[![AI](https://skillicons.dev/icons?i=tensorflow,anaconda,sklearn&theme=dark&perline=6)](https://skillicons.dev)
-`TFLite` `CNN` `Deep Learning` `NumPy` `Pandas` `Matplotlib`
+`TFLite` `CNN` `Deep Learning` `Pandas` `NumPy` `Matplotlib`
 
 </div>
 
@@ -104,15 +111,50 @@ public class WahibaAtif extends FullStackEngineer {
 
 ## 💼 Professional Experience
 
-| Period | Role | Company | Stack |
-|:---|:---|:---|:---|
-| 🟢 Jul – Aug 2025 | **Web Developer** | CDMA (Oracle) | Laravel · React · Full-Stack |
-| 🟡 Jun – Aug 2024 | **Web Developer** | BOTI SCHOOL | Laravel · React |
-| 🔵 Mar – Apr 2023 | **Web Developer** | Direction Régionale OFPPT | PV Archiving App |
+<table>
+<tr>
+<td><b>Period</b></td>
+<td><b>Role</b></td>
+<td><b>Company</b></td>
+<td><b>Stack</b></td>
+</tr>
+<tr>
+<td>🟢 Jul – Aug 2025</td>
+<td><b>Web Developer — Full-Stack</b></td>
+<td>CDMA (Oracle Partner)</td>
+<td>Laravel · React · Full-Stack e-learning platform</td>
+</tr>
+<tr>
+<td>🟡 Jun – Aug 2024</td>
+<td><b>Web Developer</b></td>
+<td>Boti School</td>
+<td>Laravel · React · Online library app</td>
+</tr>
+<tr>
+<td>🔵 Mar – Apr 2023</td>
+<td><b>Web Developer</b></td>
+<td>Direction Régionale OFPPT</td>
+<td>PV archiving application</td>
+</tr>
+</table>
 
 ---
 
 ## 🚀 Featured Projects
+
+<div align="center">
+
+| # | Project | Description | Stack | Status |
+|:---:|:---|:---|:---|:---:|
+| 📊 | **[JenkLog](https://github.com/atifHiba)** | Intelligent CI/CD monitoring — ML error detection, auto-corrections, dashboard & alerting | `Spring Boot` `React` `Kafka` `Jenkins` `Docker` `PostgreSQL` `Flask` | ![Done](https://img.shields.io/badge/-Completed-16a34a?style=flat-square) |
+| 🏥 | **[SangConnect](https://github.com/atifHiba)** | Secure blood transfusion platform — donors, requests & real-time admin monitoring | `Spring Boot` `React` `Oracle` `Grafana` `Kibana` `Nginx` | ![Done](https://img.shields.io/badge/-Completed-16a34a?style=flat-square) |
+| 🤖 | **[SmartDoc AI](https://github.com/atifHiba)** | Flutter mobile app with CNN document classifier, AI voice assistant & Firebase auth | `Flutter` `TFLite` `CNN` `GPT/Gemini` `Firebase` | ![Done](https://img.shields.io/badge/-Completed-16a34a?style=flat-square) |
+| 🚚 | **[Delivery Tracker](https://github.com/atifHiba)** | Microservices book ordering & delivery platform with CRUD, REST APIs, event streaming | `Spring Boot` `React` `Kafka` `MySQL` | ![WIP](https://img.shields.io/badge/-In%20Progress-f59e0b?style=flat-square) |
+| 📚 | **[BibliothequeProjet](https://github.com/atifHiba/BibliothequeProjet)** | Library management system — catalog, members & loan tracking | `ASP.NET Core` `C#` `SQL Server` `EF Core` | ![Active](https://img.shields.io/badge/-Active-38bdf8?style=flat-square) |
+| 🛒 | **[E-Commerce Platform](https://github.com/atifHiba)** | Full-stack e-commerce site with product catalog, cart & order management | `Django` `MySQL` `Bootstrap` `jQuery` | ![Done](https://img.shields.io/badge/-Completed-16a34a?style=flat-square) |
+| 🏛️ | **Mini-projet SAGE ERP** | ERP process study — integrated business processes, data centralization & module logic | `ERP SAGE` | ![Done](https://img.shields.io/badge/-Completed-16a34a?style=flat-square) |
+
+</div>
 
 <div align="center">
 
@@ -126,35 +168,34 @@ public class WahibaAtif extends FullStackEngineer {
 
 </div>
 
-<br/>
+---
 
-<div align="center">
+## 🎓 Education
 
-| # | Project | Description | Stack | Status |
-|:---:|:---|:---|:---|:---:|
-| 🏥 | **SangConnect** | Blood transfusion management web app — donors, requests & admins | `Spring Boot` `React` `Oracle` `Grafana` `Kibana` `Nginx` | ![Done](https://img.shields.io/badge/-Completed-16a34a?style=flat-square) |
-| 🤖 | **SmartDoc AI** | Flutter mobile app with CNN document classifier, Speech-to-Text & Firebase auth | `Flutter` `TFLite` `GPT/Gemini` `Firebase` | ![Done](https://img.shields.io/badge/-Completed-16a34a?style=flat-square) |
-| 📊 | **JenkLog** | Intelligent CI/CD pipeline monitoring — ML error detection, auto-corrections | `Spring Boot` `React` `Kafka` `Jenkins` `Docker` `PostgreSQL` `Python (Flask)` | ![Done](https://img.shields.io/badge/-Completed-16a34a?style=flat-square) |
-| 🚚 | **Delivery Tracker** | Microservices book ordering & delivery platform | `Spring Boot` `React` `Kafka` `MySQL` | ![WIP](https://img.shields.io/badge/-In%20Progress-f59e0b?style=flat-square) |
-| 🏛️ | **Mini-projet SAGE ERP** | ERP process study — data centralization & module integration | `ERP SAGE` | ![Done](https://img.shields.io/badge/-Completed-16a34a?style=flat-square) |
-| 🛒 | **E-Commerce Platform** | Full-stack e-commerce site | `Django` `MySQL` `Bootstrap` `jQuery` OR `Laravel` | ![Done](https://img.shields.io/badge/-Completed-16a34a?style=flat-square) |
-| 📚 | **BibliothequeProjet** | Library management — catalog, members & loans | `ASP.NET Core` `C#` `SQL Server` `EF Core` | ![Active](https://img.shields.io/badge/-Active-38bdf8?style=flat-square) |
+```
+🎓  Ingénierie Informatique et Réseaux (IIR)
+    EMSI Al Bakri, Casablanca — Since September 2023
 
-</div>
+🎓  Diplôme de Technicien Spécialisé — Développement Digital Web Full Stack
+    ISGI Casablanca — 2021 → 2023
+
+🎓  Baccalauréat Scientifique — Mention Très Bien (Option Physique-Chimie)
+    2020 → 2021
+```
 
 ---
 
-## 🎓 Certifications
+## 📜 Certifications
 
 <div align="center">
 
 | Certification | Provider |
 |:---|:---:|
 | Oracle DevOps Professional Certification | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) |
+| OCI AI Foundations Associate | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) |
 | The Unix Workbench | ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white) |
-| Introduction à Java et à la POO | ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white) |
 | Programming for Everybody — Python | ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white) |
-| Oracle OCI AI Foundations Associate | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) |
+| Introduction à Java et à la POO | ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white) |
 | Les bases de React | ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white) |
 | Interactivity with JavaScript | ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white) |
 | Virtual Networks in Azure | ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white) |
@@ -207,11 +248,9 @@ public class WahibaAtif extends FullStackEngineer {
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-atifwahiba1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atifwahiba1@gmail.com)
 &nbsp;
-[![Phone](https://img.shields.io/badge/WhatsApp-%2B212%20682--491614-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/212682491614)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B212%20682--491614-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/212682491614)
 
 </div>
-
-<br/>
 
 ---
 
