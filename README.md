@@ -1,24 +1,33 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020810,30:060f1e,70:0a1e35,100:0d2d4a&height=280&section=header&text=Wahiba%20Atif&fontSize=64&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=FULL-STACK%20ENGINEER%20%C2%A0%C2%B7%C2%A0%20BACKEND%20%C2%A0%C2%B7%C2%A0%20AI%20%C2%A0%C2%B7%C2%A0%20DEVOPS&descAlignY=58&descSize=14&descColor=38BDF8&animation=fadeIn"/>
+<!-- 
+  ╔══════════════════════════════════════════════════════════════╗
+  ║  IMPORTANT — pour que le header s'affiche correctement :    ║
+  ║  1. Télécharge le fichier header.svg (fourni avec ce README) ║
+  ║  2. Place-le dans un dossier /assets/ à la racine du repo   ║
+  ║     → ton repo doit s'appeler "atifHiba" (même que username)║
+  ╚══════════════════════════════════════════════════════════════╝
+-->
 
-</div>
+<img width="100%" src="./assets/header.svg" alt="Wahiba Atif — Full-Stack Engineer · Backend · AI · DevOps"/>
 
-<div align="center">
+<br/>
 
-![Open to PFE](https://img.shields.io/badge/💼%20Open%20to%20PFE%20%2F%20Opportunities-1a3a2a?style=for-the-badge&labelColor=1a3a2a&color=1a3a2a&logoColor=white)
-&nbsp;
-![Location](https://img.shields.io/badge/📍%20Casablanca%2C%20Morocco-0d2137?style=for-the-badge&labelColor=0d2137&color=0d2137)
-&nbsp;
-![School](https://img.shields.io/badge/🎓%20EMSI%20Al%20Bakri%20—%20IIR-2a1f0a?style=for-the-badge&labelColor=2a1f0a&color=2a1f0a)
+<!-- Row 1 : Status badges -->
+[![Open to PFE](https://img.shields.io/badge/Open%20to%20PFE%20%2F%20Opportunities-1e3a2f?style=flat-square&logo=briefcase&logoColor=4ade80&labelColor=1e3a2f&color=1e3a2f)](https://linkedin.com/in/wahiba-atif)
+&nbsp;&nbsp;
+[![Location](https://img.shields.io/badge/Casablanca%2C%20Morocco-0d1f35?style=flat-square&logo=googlemaps&logoColor=60a5fa&labelColor=0d1f35&color=0d1f35)](#)
+&nbsp;&nbsp;
+[![School](https://img.shields.io/badge/EMSI%20Al%20Bakri%20%E2%80%94%20IIR-2a1e0a?style=flat-square&logo=graduation-cap&logoColor=fbbf24&labelColor=2a1e0a&color=2a1e0a)](#)
 
 <br/><br/>
 
-[![GitHub](https://img.shields.io/badge/⌥%20atifHiba-1a1f2e?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1f2e)](https://github.com/atifHiba)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/in%20LinkedIn-1a1f2e?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1f2e)](https://linkedin.com/in/wahiba-atif)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/✉%20atifwahiba1%40gmail.com-1a1f2e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1f2e)](mailto:atifwahiba1@gmail.com)
+<!-- Row 2 : Links -->
+[![GitHub](https://img.shields.io/badge/atifHiba-161b22?style=flat-square&logo=github&logoColor=white&labelColor=161b22)](https://github.com/atifHiba)
+&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=161b22)](https://linkedin.com/in/wahiba-atif)
+&nbsp;&nbsp;
+[![Gmail](https://img.shields.io/badge/atifwahiba1%40gmail.com-161b22?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=161b22)](mailto:atifwahiba1@gmail.com)
 
 <br/><br/>
 
