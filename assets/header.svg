@@ -1,0 +1,20 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#060e1c"/>
+      <stop offset="40%" style="stop-color:#0d1f35"/>
+      <stop offset="100%" style="stop-color:#0e3a5c"/>
+    </linearGradient>
+    <radialGradient id="radial" cx="50%" cy="40%" r="60%">
+      <stop offset="0%" style="stop-color:#1a4a7a;stop-opacity:0.4"/>
+      <stop offset="100%" style="stop-color:#060e1c;stop-opacity:0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="280" fill="url(#bg)"/>
+  <rect width="1200" height="280" fill="url(#radial)"/>
+  <path d="M0,240 C150,210 300,230 450,220 C600,210 750,200 900,215 C1050,230 1150,245 1200,240 L1200,280 L0,280 Z" fill="#0a2540" opacity="0.5"/>
+  <path d="M0,255 C200,235 400,250 600,242 C800,234 1000,248 1200,255 L1200,280 L0,280 Z" fill="#0d1f35" opacity="0.6"/>
+  <path d="M0,265 C300,250 600,260 900,255 C1050,252 1150,262 1200,265 L1200,280 L0,280 Z" fill="#8899aa" opacity="0.15"/>
+  <text x="600" y="138" font-family="'Segoe UI', Arial, sans-serif" font-size="68" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="-1">Wahiba Atif</text>
+  <text x="600" y="178" font-family="'Segoe UI', Arial, sans-serif" font-size="15" font-weight="400" fill="#38bdf8" text-anchor="middle" letter-spacing="3">FULL-STACK ENGINEER  ·  BACKEND  ·  AI  ·  DEVOPS</text>
+</svg>
