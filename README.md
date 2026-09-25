@@ -1,18 +1,48 @@
-# Wahiba Atif
+<img src="./banner.svg" alt="Wahiba Atif — Full-stack engineer" width="100%">
 
-Full-stack engineer at KLK Khayatey Living, Casablanca.
+<br>
+
+Full-stack engineer at **KLK Khayatey Living**, Casablanca.
 I build web applications end to end — data model, API, interface —
 in TypeScript and Python, with hands-on LLM work.
 
-Casablanca, Morocco (UTC+1) · Open to remote work and relocation
-[LinkedIn](https://linkedin.com/in/wahiba-atif) · atifwahiba1@gmail.com
+<a href="https://linkedin.com/in/wahiba-atif">LinkedIn</a> &nbsp;·&nbsp;
+<a href="mailto:atifwahiba1@gmail.com">atifwahiba1@gmail.com</a>
+
+<br>
 
 ## Currently
 
 Building an internal ERP at KLK Khayatey Living: Prisma schema over
 PostgreSQL, a REST API in Node.js / Express, and a React 19 interface
-with Vite and TailwindCSS. I own the feature area end to end, write
-the tests, and take part in code review.
+with Vite and TailwindCSS. I own the feature area end to end, write the
+tests, and take part in code review.
+
+<br>
+
+## Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,java,cs,cpp,php&theme=dark" height="42">
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,vite,redux,tailwind,flutter,html,css&theme=dark" height="42">
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,spring,django,laravel,dotnet&theme=dark" height="42">
+
+**Data & AI**
+
+<img src="https://skillicons.dev/icons?i=postgres,prisma,mysql,mongodb,firebase,tensorflow,sklearn&theme=dark" height="42">
+
+**Infrastructure**
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,gitlab,kafka,nginx,linux,git&theme=dark" height="42">
+
+<br>
 
 ## Selected projects
 
@@ -36,16 +66,9 @@ dashboards across the stack.
 Order lifecycle over a message bus: CRUD, REST APIs and SQL stores.
 `Java` `Spring Boot` `React` `Kafka` `MySQL`
 
-## Stack
-
-**Languages** TypeScript, JavaScript, Python, Java, SQL
-**Frontend** React 19, Vite, React Query, Redux Toolkit, TailwindCSS, Flutter
-**Backend** Node.js / Express, FastAPI, Flask, Spring Boot, Django, Laravel
-**Data** PostgreSQL (Prisma), MySQL, Oracle, MongoDB, Firebase
-**AI / ML** LLM integration (GPT, Gemini), LangChain, TensorFlow, Scikit-learn
-**Infra** Docker, Kubernetes, Jenkins, GitLab CI/CD, Grafana, Kibana, Linux
+<br>
 
 ## Background
 
-Engineering degree, Computer Science and Networks — EMSI Casablanca, 2023–2026
-Advanced Technician Diploma, Full-Stack Web Development — ISGI Casablanca, 2021–2023
+**Engineering degree, Computer Science and Networks** — EMSI Casablanca, 2023–2026
+**Advanced Technician Diploma, Full-Stack Web Development** — ISGI Casablanca, 2021–2023
