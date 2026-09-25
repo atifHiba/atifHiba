@@ -45,7 +45,7 @@ tests, and take part in code review.
 
 ## Selected projects
 
-**[JenkLog](LINK)** — ML monitoring for CI/CD pipelines
+**[JenkLog]([LINK](https://github.com/atifHiba/jenklog))** — ML monitoring for CI/CD pipelines
 Microservices platform that structures Jenkins logs, detects build
 failures with ML models and proposes fixes, with a dashboard and
 real-time alerting.
@@ -61,7 +61,7 @@ Connects donors, requesters and administrators, with monitoring
 dashboards across the stack.
 `Java` `Spring Boot` `React` `Oracle` `Grafana` `Kibana`
 
-**[Delivery Tracker](LINK)** — Event-driven order tracking
+**[Delivery Tracker](https://github.com/atifHiba/Delivery-Tracker)** — Event-driven order tracking
 Order lifecycle over a message bus: CRUD, REST APIs and SQL stores.
 `Java` `Spring Boot` `React` `Kafka` `MySQL`
 
