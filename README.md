@@ -1,5 +1,4 @@
-<img src="./banner.svg" alt="Wahiba Atif — Full-stack engineer" width="100%">
-
+<img src="./assets/banner.png" alt="Wahiba Atif — Full-stack engineer" width="100%">
 <br>
 
 Full-stack engineer at **KLK Khayatey Living**, Casablanca.
